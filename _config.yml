@@ -26,14 +26,13 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.16.4
 minimal_mistakes_skin: "neon"
 plugins:
   - jekyll-feed
-plugins:
   - jekyll-remote-theme
-plugins:
   - jekyll-archives
+  - jekyll-include-cache
 include: ["_pages"]
 
 paginate: 5
