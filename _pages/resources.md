@@ -16,8 +16,6 @@ Collection of useful Resources
 
 ## C++
 
-[Effective C++: 55 Specific Ways to Improve Your Programs and Designs][effective c++: 55 specific ways to improve your programs and designs]
-
 [Learn C++][learn c++]
 
 [C++ Best Practices][cpp-best]
@@ -329,7 +327,6 @@ Collection of useful Resources
 [linear-algebra]: http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/
 [understanding steering behaviors - envato tuts+ game development tutorials]: https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732
 [chekhov&#39;s gun - wikipedia]: https://en.wikipedia.org/wiki/Chekhov%27s_gun
-[effective c++: 55 specific ways to improve your programs and designs]: http://ptgmedia.pearsoncmg.com/images/9780321334879/samplepages/0321334876.pdf
 [coolors.co - the super fast color schemes generator]: https://coolors.co/
 [fortune’s algorithm and implementation]: http://blog.ivank.net/fortunes-algorithm-and-implementation.html
 [my study notes]: https://encelo.github.io/notes.html
