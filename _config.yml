@@ -82,7 +82,13 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-      
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-1234567-8"
+    anonymize_ip: false # default
+    
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
