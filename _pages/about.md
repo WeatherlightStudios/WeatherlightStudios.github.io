@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Weatherlight is a gamedev team of 4 people:
+Weatherlight is an italian gamedev team of 4 people:
 
 ## Cogno
 
@@ -29,3 +29,10 @@ Engine Programmer
 > Ah si?
 
 3D Artist
+
+---
+
+This blog has *mainly* 2 purposes:
+
+1. Being a news feed to stay updated either on what we did, what we're doing, or what we're gonna *eventually* do
+2. This is an archive of resources that you *might or might not* find useful. This is mainly a database for the team, but you can help us build a bigger database yourself. You can find how [here](/how-to-contribute/)

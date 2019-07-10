@@ -7,7 +7,10 @@ toc_label: "My Table of Contents"
 toc_icon: "bookmark"
 ---
 
-Collection of useful Resources
+## A Collection of Useful Resources
+
+This section is a collective collection of useful resources for people to find, divided by meaningful sections and each with a quick proper explanation.
+Collective because you can help increase this collection with your own links: to know how, you can take a look at [this section here](/how-to-contribute/).
 
 
 
@@ -21,6 +24,38 @@ Collection of useful Resources
 [C++ Best Practices][cpp-best]
 
 [C++ FAQ][cpp-faq]
+
+
+
+
+
+
+
+
+
+## Game Engines
+
+[Creating a tools pipeline for Horizon Zero Dawn][hzd-engine-tools]
+
+[Musings on cross-platform graphics engine architectures - Pt.2][musings]
+
+[An Analysis of Minecraft-like Engines][minecraft-engine-analysis]
+
+[Modern Game Engine Architectures][modern-game-engine]
+
+[Nomad Game Engine][nomad game engine]
+
+[Component Based Engine Design][component-based-engine]
+
+[Nick's Voxel Blog: Engine Overview][nick-engine]
+
+[Writing a Game Engine in 2017][engine-2017]
+
+[3D Game Engine Programming][3d-engine-prog]
+
+[Blog Entries: a Voxel Project][blog-entries]
+
+
 
 
 
@@ -65,11 +100,13 @@ Collection of useful Resources
 
 
 
+
+
+
+
 ## Design Patterns and Software Architecture
 
 [Design Patterns][design-patterns]
-
-[Modern Game Engine Architectures][modern-game-engine]
 
 [Smells to Refactorings][smells to refactorings]
 
@@ -81,9 +118,11 @@ Collection of useful Resources
 
 [Game Programming Patterns][game programming patterns]
 
-[Musings on cross-platform graphics engine architectures - Pt.2][musings]
 
-[An Analysis of Minecraft-like Engines][minecraft-engine-analysis]
+
+
+
+
 
 
 
@@ -99,13 +138,12 @@ Collection of useful Resources
 
 [What Every Programmer should know about memory Pt.1][programmers-know-memory]
 
-[Nomad Game Engine][nomad game engine]
-
 [Managing Data Relationships][data-relationships]
 
 [Building a Data-Oriented Entity SIstem Pt.2][dod-ecs-pt2]
 
-[Component Based Engine Design][component-based-engine]
+
+
 
 
 
@@ -159,7 +197,9 @@ Collection of useful Resources
 
 [Ray Casting Tutorial Pt.9][raycast-pt9]
 
-[Nick's Voxel Blog: Engine Overview][nick-engine]
+
+
+
 
 
 
@@ -169,8 +209,6 @@ Collection of useful Resources
 
 [Minecraft Like Rendering Experiments in OpenGL 4][minecraft-like]
 
-[Writing a Game Engine in 2017][engine-2017]
-
 [Depth and Normal Textures (Part 1)][william chyr (part 1)]
 
 [Wave - by Oskar Stålberg][wave - by oskar st�lberg]
@@ -178,6 +216,7 @@ Collection of useful Resources
 [Adrian's Project Studies][project-studies]
 
 [How we use Box2D with Artemis][artemis-box2d]
+
 
 
 
@@ -199,6 +238,11 @@ Collection of useful Resources
 
 
 
+
+
+
+
+
 ## Maths
 
 [Better Explained][better-explained]
@@ -215,9 +259,18 @@ Collection of useful Resources
 
 
 
+
+
+
+
+
 ## Game Design
 
 [Chekhov&#39;s gun - Wikipedia][chekhov&#39;s gun - wikipedia]
+
+
+
+
 
 
 
@@ -238,13 +291,15 @@ Collection of useful Resources
 
 [Welcome - Procedural Content Generation Wiki][welcome - procedural content generation wiki]
 
-[3D Game Engine Programming][3d-engine-prog]
-
 [Compilation of 100+ 3D graphics academic papers][academic-compilation]
 
 ["I Need Practice Programming": 49 Ideas for Game Clones to Code][python-games-blog]
 
-[Blog Entries: a Voxel Project][blog-entries]
+
+
+
+
+
 
 
 
@@ -257,11 +312,21 @@ Collection of useful Resources
 
 
 
+
+
+
+
+
 ## Webdevve
 
 [Design Course's Youtube Channel][design-course-yt]
 
 [Coolors.co - The super fast color schemes generator][coolors.co - the super fast color schemes generator]
+
+
+
+
+
 
 
 
@@ -277,6 +342,10 @@ Collection of useful Resources
 
 
 
+
+
+
+
 ## Exercises
 
 [Python-programming-exercises/100+ Python challenging programming exercises.txt at master · zhiwehu/Python-programming-exercises][python-programming-exercises/100+ python challenging programming exercises.txt at master � zhiwehu/python-programming-exercises]
@@ -286,6 +355,10 @@ Collection of useful Resources
 [donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.][donnemartin/interactive-coding-challenges: 120+ interactive python coding interview challenges (algorithms and data structures). includes anki flashcards.]
 
 [Archived Problems - Project Euler][archived problems - project euler]
+
+
+
+
 
 
 
@@ -391,3 +464,4 @@ Collection of useful Resources
 [marching-cubes]: http://procworld.blogspot.com/2010/11/from-voxels-to-polygons.html
 [nick-engine]: http://ngildea.blogspot.com/2015/03/engine-overview.html
 [minecraft-engine-analysis]: https://0fps.net/2012/01/14/an-analysis-of-minecraft-like-engines/
+[hzd-engine-tools]: https://www.guerrilla-games.com/read/creating-a-tools-pipeline-for-horizon-zero-dawn
