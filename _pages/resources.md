@@ -25,6 +25,7 @@ Collective because you can help increase this collection with your own links: to
 
 [C++ FAQ][cpp-faq]
 
+[C++11/14/17/20 Cheatsheet][cpp-cheatsheet]
 
 
 
@@ -465,3 +466,4 @@ Collective because you can help increase this collection with your own links: to
 [nick-engine]: http://ngildea.blogspot.com/2015/03/engine-overview.html
 [minecraft-engine-analysis]: https://0fps.net/2012/01/14/an-analysis-of-minecraft-like-engines/
 [hzd-engine-tools]: https://www.guerrilla-games.com/read/creating-a-tools-pipeline-for-horizon-zero-dawn
+[cpp-cheatsheet]: https://github.com/AnthonyCalandra/modern-cpp-features
