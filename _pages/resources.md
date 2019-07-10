@@ -19,6 +19,8 @@ Collective because you can help increase this collection with your own links: to
 
 ## C++
 
+> Because there are never enough c++ resources
+
 [Learn C++][learn c++]
 
 [C++ Best Practices][cpp-best]
@@ -35,6 +37,8 @@ Collective because you can help increase this collection with your own links: to
 
 
 ## Game Engines
+
+> Look at what people did right, and what people did wrong. Then do them from scratch cause "I wanna learn"
 
 [Creating a tools pipeline for Horizon Zero Dawn][hzd-engine-tools]
 
@@ -65,6 +69,8 @@ Collective because you can help increase this collection with your own links: to
 
 
 ## Data Structures and Algorithms
+
+> Programming is the art of manipolating data through algorithms, so here's a bunch of them!
 
 [Z-order curves][z-order]
 
@@ -107,6 +113,8 @@ Collective because you can help increase this collection with your own links: to
 
 ## Design Patterns and Software Architecture
 
+> Because we made mistakes, then we solved them, and now we don't wanna do them again
+
 [Design Patterns][design-patterns]
 
 [Smells to Refactorings][smells to refactorings]
@@ -128,6 +136,8 @@ Collective because you can help increase this collection with your own links: to
 
 
 ## Data Oriented Design (DOD)
+
+> When fast is not enough
 
 [Fast ECS][fast-ecs]
 
@@ -153,6 +163,8 @@ Collective because you can help increase this collection with your own links: to
 
 
 ## Graphics and Rendering
+
+> Because I have eyes and I want to see stuff
 
 [PBR][pbr]
 
@@ -208,6 +220,8 @@ Collective because you can help increase this collection with your own links: to
 
 ## Case Study
 
+> People made stuff, either bad or good, so let's look at them!
+
 [Minecraft Like Rendering Experiments in OpenGL 4][minecraft-like]
 
 [Depth and Normal Textures (Part 1)][william chyr (part 1)]
@@ -230,6 +244,8 @@ Collective because you can help increase this collection with your own links: to
 
 ## Books
 
+> Because we're in a digital world... wait what?
+
 [Procedural Content Generation in Games A textbook and an overview of current research][pcg]
 
 [Automate the Boring Stuff with Python][automate the boring stuff with python]
@@ -245,6 +261,8 @@ Collective because you can help increase this collection with your own links: to
 
 
 ## Maths
+
+> Because programming doesn't need maths, but if you use it you make stuff faster
 
 [Better Explained][better-explained]
 
@@ -267,6 +285,8 @@ Collective because you can help increase this collection with your own links: to
 
 ## Game Design
 
+> The art of Game Design is really hard, so it's better to start somewhere
+
 [Chekhov&#39;s gun - Wikipedia][chekhov&#39;s gun - wikipedia]
 
 
@@ -277,6 +297,8 @@ Collective because you can help increase this collection with your own links: to
 
 
 ## Many Other Resources
+
+> Because this list is not enough
 
 [PhatCode Articles][phatcode]
 
@@ -306,21 +328,11 @@ Collective because you can help increase this collection with your own links: to
 
 ## Software and Tools
 
+> To make the same stuff, but better and faster
+
 [x64dbg][x64dbg]
 
 [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript][online regex tester and debugger: php, pcre, python, golang and javascript]
-
-
-
-
-
-
-
-
-
-## Webdevve
-
-[Design Course's Youtube Channel][design-course-yt]
 
 [Coolors.co - The super fast color schemes generator][coolors.co - the super fast color schemes generator]
 
@@ -331,8 +343,24 @@ Collective because you can help increase this collection with your own links: to
 
 
 
+## Webdevve
+
+> Because webdev is a huge mess, so here's where to start
+
+[Design Course's Youtube Channel][design-course-yt]
+
+
+
+
+
+
+
+
+
 
 ## Other
+
+> Because I don't know where to put these
 
 [Performance Programming for Game Developers][perf-prog]
 
@@ -348,6 +376,8 @@ Collective because you can help increase this collection with your own links: to
 
 
 ## Exercises
+
+> To make more practice, cause why not!
 
 [Python-programming-exercises/100+ Python challenging programming exercises.txt at master · zhiwehu/Python-programming-exercises][python-programming-exercises/100+ python challenging programming exercises.txt at master � zhiwehu/python-programming-exercises]
 
