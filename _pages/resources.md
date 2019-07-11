@@ -301,7 +301,8 @@ With each resource there will be a quick little explanation, just to know what t
 - [Ray Casting Tutorial Pt.9][raycast-pt9]<br>
     Ray Casting: how it works and an implementation.
 
-    
+- [Texel Density][texel-density]
+    What Texel Density is, and how to have an uniform scale on your entire world.
 
 
 
@@ -641,3 +642,4 @@ With each resource there will be a quick little explanation, just to know what t
 [marching-tetrahedra-wiki]: https://en.wikipedia.org/wiki/Marching_tetrahedra
 [l-system-wiki]: https://en.wikipedia.org/wiki/L-system
 [model-view-controller]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+[texel-density]: https://www.artstation.com/artwork/qbOqP
