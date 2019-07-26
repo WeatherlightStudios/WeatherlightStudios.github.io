@@ -46,7 +46,8 @@ let's face it, C++ is hard, and you might have tons of questions to which you do
 <a class="btn disabled btn--danger btn--small">Expert</a> [C++11/14/17/20 Cheatsheet][cpp-cheatsheet]<br>
 Since every release adds stuff, you need to know what was added, so here's a collection with explanation of the latest introductions to the language, starting from C++11.
 
-
+<a class="btn disabled btn--success btn--small">Beginner</a> [105 STL Algorithms][105-stl-algos]<br>
+A youtube video talking about every algorithm inside the C++ standard library and why you should use them
 
 
 
@@ -349,6 +350,8 @@ An entire book about Physically Based Rendering (aka PBR).
 <a class="btn disabled btn--warning">Intermediate</a> [Voxel-Based Terrain for Real-Time Virtual Simulations][voxel-terrain]<br>
 A book about a Voxel-Based Terrain, from implementation, to rendering.
 
+<a class="btn disabled btn--success">Beginner to Expert</a> [A Study Path for Game Programmers][game-programmer-study-path]<br>
+An entire collection of books to study if you wanna be a game programmer, passing through every aspect of game programming: from programming languages, to engines, to audio, physics and animations, from AI to Multiplayer, basically everything.
 
 
 
@@ -488,6 +491,8 @@ A list of problems to solve to make tons of practice.
 
 <a class="btn disabled btn--success">Beginner to Expert</a> ["I Need Practice Programming": 49 Ideas for Game Clones to Code][python-games-blog]<br>
 Big list of ideas of games to clone to learn how to code, or maybe to develop your engine while you work on these.
+
+
 
 
 ## Many Other Resources
@@ -650,3 +655,5 @@ A list of tutorials mainly about Pixel Art.
 [l-system-wiki]: https://en.wikipedia.org/wiki/L-system
 [model-view-controller]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 [texel-density]: https://www.artstation.com/artwork/qbOqP
+[game-programmer-study-path]: https://raw.githubusercontent.com/miloyip/game-programmer/master/game-programmer.jpg
+[105-stl-algos]: https://www.youtube.com/watch?v=bFSnXNIsK4A
