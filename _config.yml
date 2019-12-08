@@ -17,8 +17,9 @@ title: Weatherlight Blog
 email: weatherlightstudios@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog of the gamedev Weatherlight Team, an indie team about game development.
+  Developers of the FireLight Engine and Unity developers.
 baseurl: "" # the subpath of your site, e.g. /blog
-keywords: "Weatherlight, Team, Studios, Gamedev, Unity, Firelight"
+keywords: "Weatherlight, Team, Studios, Gamedev, Unity, Firelight, WeatherlightTeam, WeatherlightStudios, WeatherlightStudio, weatherlight, blog, Blog, team, studios, firelight, unity, gamedev"
 url: "https://weatherlightstudios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Weatherlight_WS
 github_username:  WeatherlightStudios
